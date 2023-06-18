@@ -152,4 +152,4 @@ for unit in attack_units:
     unit.damaged(randint(5, 20)) # 공격은 랜덤으로 받음 (5~20 사이)
 
 # 게임 종료
-game_over()
+game_over()  # gg
